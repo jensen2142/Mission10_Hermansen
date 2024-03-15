@@ -1,0 +1,6 @@
+@APIMission10_Herm_HostAddress = http://localhost:5199
+
+GET {{APIMission10_Herm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
